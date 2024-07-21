@@ -1,0 +1,27 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    color: maroon;
+}
+
+.post {
+    background-color: thistle;
+    border: 1px solid black;
+    margin: 0 0 10px 0;
+    padding: 10px 0 10px 10px;
+}
+
+.username {
+    font-style: italic;
+    text-decoration: 3px underline maroon;
+}
+
+.btn {
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: black;
+    color: white;
+}

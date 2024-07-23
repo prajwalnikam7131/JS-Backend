@@ -1,0 +1,15 @@
+{
+  "name": "07-mongodb",
+  "version": "1.0.0",
+  "description": "Learn mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prajwal",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.1"
+  }
+}
